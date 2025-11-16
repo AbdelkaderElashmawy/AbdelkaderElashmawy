@@ -25,9 +25,8 @@ I’m focused on improving every day, learning new technologies, and building a 
 
 
 ## 🚀 Current Focus
-- Mastering *Flutter*  
-- Improving *Data Structures & Algorithms*  
-- Building clean, scalable mobile apps  
-- Consistency & building strong habits  
-
+- Learning Dart as the core foundation before Flutter 
+- Strengthening my problem-solving and algorithms skills  
+- Preparing to launch my YouTube channel to share my learning journey  
+- Building small projects to grow my portfolio
 ---
