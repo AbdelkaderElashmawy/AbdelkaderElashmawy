@@ -25,11 +25,7 @@ Always open to learning, collaborating, and working on new ideas!
 
 ---
 
-## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AbdelkaderAshmawy&count_private=true&show_icons=true&include_all_commits=true)
-
----
 
 ## 🚀 Current Focus
 - Mastering *Flutter*  
@@ -38,6 +34,3 @@ Always open to learning, collaborating, and working on new ideas!
 - Consistency & building strong habits  
 
 ---
-
-## 👀 Visitor Count
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AbdelkaderAshmawy.profile)
