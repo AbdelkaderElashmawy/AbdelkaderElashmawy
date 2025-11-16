@@ -17,7 +17,6 @@ Always open to learning, collaborating, and working on new ideas!
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-000000?style=flat-square&logo=codeforces)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visual-studio-code)
