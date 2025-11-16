@@ -1,9 +1,9 @@
 # 👋 Hey there! I'm Abdelkader El-Ashmawy  
 
-I'm Abdelkader, a Computer Science & Statistics student at *Mansoura University, passionate about **mobile app development (Flutter)* and improving my *problem-solving skills* using C++.
+I’m Abdelkader El Ashmawy, a Computer Science & Statistics student with a strong passion for programming and problem solving.
+I work with Dart and C++, and I’m currently developing my skills through building projects and solving algorithmic problems.
 
-I'm currently building my path to become a *professional Mobile App Developer*, working on small projects, practicing algorithms daily, and sharing my progress.  
-Always open to learning, collaborating, and working on new ideas!
+I’m focused on improving every day, learning new technologies, and building a solid foundation to start a strong career in software development.
 
 ### 📬 Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-AbdelkaderElashmawy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelkaderelashmawy/)](https://www.linkedin.com/in/abdelkaderelashmawy/)
