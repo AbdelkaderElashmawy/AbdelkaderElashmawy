@@ -6,7 +6,7 @@ I'm currently building my path to become a *professional Mobile App Developer*, 
 Always open to learning, collaborating, and working on new ideas!
 
 ### 📬 Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-AbdelkaderElAshmawy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelkaderelashmawy/)](https://www.linkedin.com/in/abdelkaderelashmawy/)
+[![Linkedin Badge](https://img.shields.io/badge/-AbdelkaderElashmawy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelkaderelashmawy/)](https://www.linkedin.com/in/abdelkaderelashmawy/)
 [![Gmail Badge](https://img.shields.io/badge/-AbdelkaderElashmawy@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:AbdelkaderElashmawy@outlook.com)](mailto:AbdelkaderElashmawy@outlook.com)
 ---
 
